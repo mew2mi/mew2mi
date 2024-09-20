@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mew2mi
 - 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning Unity
+- 🌱 I’m currently learning Godot
 - 📫 You can reach me by email (sonicx11168@gmail.com) or Discord (mew2mi)
 
 <!---
